@@ -11,6 +11,13 @@
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
+### 🎵 My Coding Playlist
+
+[![Spotify](https://img.shields.io/badge/Spotify-Playlist-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/4ZNw2IMqSE68kDmKf0BFvQ)
+
+[![My Spotify Playlist](https://i.scdn.co/image/ab67706c0000da84f6dfbb88fd7f27da7c77f46a)](https://open.spotify.com/playlist/4ZNw2IMqSE68kDmKf0BFvQ)
+
+
 ###
 
 <div align="left">
