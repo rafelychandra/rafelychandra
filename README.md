@@ -17,7 +17,7 @@
 
 [![Spotify](https://img.shields.io/badge/Listen%20on-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/4ZNw2IMqSE68kDmKf0BFvQ)
 
-[![My Spotify Playlist](https://i.scdn.co/image/ab67706c0000da84f6dfbb88fd7f27da7c77f46a)](https://open.spotify.com/playlist/4ZNw2IMqSE68kDmKf0BFvQ)
+[![My Spotify Playlist](https://cdn.pixabay.com/photo/2015/02/08/13/19/psychedelic-628494_1280.jpg)](https://open.spotify.com/playlist/4ZNw2IMqSE68kDmKf0BFvQ)
 
 </div>
 
