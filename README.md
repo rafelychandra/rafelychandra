@@ -1,61 +1,45 @@
-<h2 align="left">Hi👋! My name is Rafely Chandra Rizkilillah, you guys can call me Chandra and I'm a Software Engineer in my office, from Indonesia</h2>
+# Hi there 👋, I'm Rafely Chandra Rizkilillah
 
-###
+You can call me **Chandra**.  
+I'm a **Software Engineer** passionate about building efficient and scalable systems, especially with **Go (Golang)**.  
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rafelychandra&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rafelychandra&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+---
 
-###
+## 🚀 About Me
+- 💻 Specialize in backend development with **Go**
+- 🏀 Basketball enthusiast — teamwork and strategy inspire my code
+- 🎵 Music lover & **vinyl record collector**
+- 🌱 Always learning and experimenting with new technologies
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+---
 
-### 🎵 My Coding Playlist  
+## 🛠️ Tech Stack
+- **Languages:** Go, JavaScript, SQL  
+- **Databases:** PostgreSQL, MongoDB  
+- **Tools & Platforms:** Docker, GitHub Actions, DigitalOcean, GCP  
+- **Others:** REST API, Microservices, Distributed Systems  
 
-<div align="center">
+---
 
-[![Spotify](https://img.shields.io/badge/Listen%20on-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/4ZNw2IMqSE68kDmKf0BFvQ)
+## 📌 Featured Projects
+- 🔧 [Project 1](#) — description here  
+- 🎶 [Project 2](#) — description here  
+- 📊 [Project 3](#) — description here  
 
-[![My Spotify Playlist](https://cdn.pixabay.com/photo/2015/02/08/13/19/psychedelic-628494_1280.jpg)](https://open.spotify.com/playlist/4ZNw2IMqSE68kDmKf0BFvQ)
+---
 
-</div>
+## 🎧 Fun Facts
+- I own a growing collection of **vinyl records**  
+- My favorite band is **The Beatles**  
+- I enjoy mixing tech with creativity  
 
+---
 
+## 📫 Connect with Me
+- GitHub: [@rafelychandra](https://github.com/rafelychandra)  
+- LinkedIn: [Your LinkedIn here]  
+- Instagram: [Optional if you want to share vinyl collection IG]  
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
-
-###
-
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
+⭐️ From [rafelychandra](https://github.com/rafelychandra)
