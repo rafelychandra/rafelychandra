@@ -24,14 +24,14 @@ I'm a software engineer passionate about building efficient and scalable systems
 ---
 
 ## 📌 Featured Projects
-- 🔧 [My Wedding Invitation](https://rafelychandra.wixsite.com/my-site-4) — This is my wedding invitation using WIX and GO for backend
+- [My Wedding Invitation](https://rafelychandra.wixsite.com/my-site-4) — This is my wedding invitation using WIX and GO for backend
 
 ---
 
 ## 🎧 Fun Facts
 - I own a growing collection of **vinyl records**  
 - My favorite band is **The Beatles**, **The Beach Boys**, **Pink Floyd**, **The Doors**, music from 40's - 70's. (OLD SOUL HAHAHA) 
-- I enjoy mixing tech with creativity  
+- I enjoy listening to old music while coding creatively
 
 ---
 
