@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Rafely Chandra Rizkilillah
 
 You can call me **Chandra**.  
-I'm a **Software Engineer** passionate about building efficient and scalable systems, especially with **Go (Golang)**.  
+I'm a software engineer passionate about building efficient and scalable systems, especially in the backend.  
 
 ---
 
@@ -14,17 +14,17 @@ I'm a **Software Engineer** passionate about building efficient and scalable sys
 ---
 
 ## 🛠️ Tech Stack
-- **Languages:** Go, JavaScript, SQL  
-- **Databases:** PostgreSQL, MongoDB  
-- **Tools & Platforms:** Docker, GitHub Actions, DigitalOcean, GCP  
-- **Others:** REST API, Microservices, Distributed Systems  
+- **Languages:** Go, JavaScript, SQL, Java, PHP, HTML, CSS
+- **Framework:** go-fiber, go-echo, go-chi, go-gin, Node.js, React.js, Codeigniter, Laravel
+- **API Gateway:** KrakenD, Kong
+- **Databases:** PostgreSQL, MySQL, MongoDB, Redis 
+- **Tools & Platforms:** Docker, DigitalOcean, GCP, Grafana Monitoring, git, Kafka, Google Pubsub, Google Cloud Storage, WIX
+- **Others:** REST API, Scheduler, Microservices, Distributed System, Swagger, 
 
 ---
 
 ## 📌 Featured Projects
-- 🔧 [Project 1](#) — description here  
-- 🎶 [Project 2](#) — description here  
-- 📊 [Project 3](#) — description here  
+- 🔧 [My Wedding Invitation](https://rafelychandra.wixsite.com/my-site-4) — This is my wedding invitation using WIX and GO for backend
 
 ---
 
@@ -37,8 +37,8 @@ I'm a **Software Engineer** passionate about building efficient and scalable sys
 
 ## 📫 Connect with Me
 - GitHub: [@rafelychandra](https://github.com/rafelychandra)  
-- LinkedIn: [Your LinkedIn here]  
-- Instagram: [Optional if you want to share vinyl collection IG]  
+- LinkedIn: [Linkedin](https://www.linkedin.com/in/rafelychandra)  
+- Spotify: [CHANKEEY](https://open.spotify.com/user/rzkllh?si=c141e261a2704fb0) -> Vibes CODES!!!!!
 
 ---
 
