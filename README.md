@@ -30,7 +30,7 @@ I'm a software engineer passionate about building efficient and scalable systems
 
 ## 🎧 Fun Facts
 - I own a growing collection of **vinyl records**  
-- My favorite band is **The Beatles**  
+- My favorite band is **The Beatles**, **The Beach Boys**, **Pink Floyd**, **The Doors**, music from 40's - 70's. (OLD SOUL HAHAHA) 
 - I enjoy mixing tech with creativity  
 
 ---
